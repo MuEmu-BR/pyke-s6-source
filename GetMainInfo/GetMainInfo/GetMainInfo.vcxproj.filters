@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Util Files">
+      <UniqueIdentifier>{eb75f507-b013-46e9-b375-afb6dd4aa120}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CustomCrossbow">
+      <UniqueIdentifier>{3b56e2ff-541c-4719-a62b-926a23117e4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CustomGloves">
+      <UniqueIdentifier>{41c26215-9b0a-4c47-bfc9-9b2936a8c2b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Log">
+      <UniqueIdentifier>{b07cd261-72a9-48e4-a50d-b354d4e3f9dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CustomPet">
+      <UniqueIdentifier>{40c70116-9d70-48a0-afa5-401ea90b0e99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CustomCloak">
+      <UniqueIdentifier>{de34c7c9-df3b-4a89-b5c8-1f32ff84e187}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ItemPosition">
+      <UniqueIdentifier>{d3b6d96a-d483-4363-9f42-6f72f4f3f5e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CustomRemake">
+      <UniqueIdentifier>{7e7ab1a9-1e6f-4a5e-b64b-d5716245942f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ItemInfoEx">
+      <UniqueIdentifier>{c7271dd8-d5cc-45bd-9cc7-3fa8976349b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ItemValue">
+      <UniqueIdentifier>{4fcc141d-17a0-4967-b011-3d13757ce4f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ModelEffect">
+      <UniqueIdentifier>{e26d93b0-313b-4896-b52f-a9ceaff460c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\PetEffect">
+      <UniqueIdentifier>{74caf15c-0cd8-430e-aaca-3f967783f82f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="GetMainInfo.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThemidaSDK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Util\CCRC32.H">
+      <Filter>Util Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomWing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MemScript.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomJewel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomMessage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomWIngEffect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomEffectDynamic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomBuyVip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomCommandInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SmokeEffect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomMonster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomNpcName.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomEventTimeText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomCrossBow.h">
+      <Filter>Source Files\CustomCrossbow</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomGloves.h">
+      <Filter>Source Files\CustomGloves</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoLog.h">
+      <Filter>Source Files\Log</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomPet.h">
+      <Filter>Source Files\CustomPet</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomCloak.h">
+      <Filter>Source Files\CustomCloak</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomItemPosition.h">
+      <Filter>Source Files\ItemPosition</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomEffectRemake.h">
+      <Filter>Source Files\CustomRemake</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemValue.h">
+      <Filter>Source Files\ItemValue</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelEffect.h">
+      <Filter>Source Files\ModelEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManager.h">
+      <Filter>Source Files\ItemInfoEx</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomPetEffect.h">
+      <Filter>Source Files\PetEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="EventTimerText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EarthQuake.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GetMainInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Util\CCRC32.Cpp">
+      <Filter>Util Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomWing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemScript.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomJewel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomMessage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomWIngEffect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomEffectDynamic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomBuyVip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomCommandInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SmokeEffect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomMonster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomNpcName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomEventTimeText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomCrossBow.cpp">
+      <Filter>Source Files\CustomCrossbow</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomGloves.cpp">
+      <Filter>Source Files\CustomGloves</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoLog.cpp">
+      <Filter>Source Files\Log</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomPet.cpp">
+      <Filter>Source Files\CustomPet</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomCloak.cpp">
+      <Filter>Source Files\CustomCloak</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomItemPosition.cpp">
+      <Filter>Source Files\ItemPosition</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomEffectRemake.cpp">
+      <Filter>Source Files\CustomRemake</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemValue.cpp">
+      <Filter>Source Files\ItemValue</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelEffect.cpp">
+      <Filter>Source Files\ModelEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemManager.cpp">
+      <Filter>Source Files\ItemInfoEx</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomPetEffect.cpp">
+      <Filter>Source Files\PetEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="EventTimerText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EarthQuake.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GetMainInfo.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

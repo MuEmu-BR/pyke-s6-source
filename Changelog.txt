@@ -1,0 +1,108 @@
+- Add PartySearch+Password
+- Add Stats Add Panel
+- Add Reset Stats+Master Reset
+- Add JewelBank
+- Fix Antiflood System
+- Add Achievements System
+- Add Quest System Window
+- Fix Dupe Chaos Machine
+- Add EventTimer v2
+- Add CustomArcher
+- Add PK System
+- Add Premium Drop
+- Add Effect Move
+- Add ShopPointEx
+- Add Zen Drop
+- Add MasterExp in ExpierenceTable.txt
+- Add Ranking v2
+- Add FruitSystem
+- Add PersonalShopSearch
+
+- Fix Weather Effect
+- Fix Accept Guild Assistant can accept request
+- Add Disable Skill
+- Add Skill Damage
+- Fix Town Portal
+- Fix Elf Buffer "You are already blessed"
+- Fix Combo Push Effect
+- Fix Fix ViewPort GuildUnion and Taget Guild Union
+- Switch On/Off PvP in Raklion Event Boss Map (GameServerInfo - Event.dat)
+- Add Enable/Disable PVP in GM Status (GameServerInfo - Common.dat) 
+- Add Command Set PK
+- Add SelfDefenseTime PK
+- Add ItemDropPickUpTime (GameServerInfo - Common.dat) 
+- Add Command Set Level Player
+- Fix Buff Skill in Event Maps Blood Castle, Illusion Temple
+- Fix Message Global Event Kanturu
+- Fix GM Wing on Blood castle
+- Fix trade request when dying
+- Fix move when is stuned
+- Fix Switch character when dying
+- Switch On/Off Remove Battle Zone (Move System) (MainInfo.ini)
+
+- Add Start Gate in DefaultClassInfo.txt
+- Add Change Class
+- Add Party Set Leader
+- Add Party Trace Player
+- Add Bot Alchemist
+- Add Bot Trader
+- Add GuardMessage (GameServerInfo - Common.dat) 
+- Add Delete Dupe Item (GameServerInfo - Common.dat) 
+- Add Disconect Dupe Item (GameServerInfo - Common.dat)
+- Add CRC Check GameServer side (GameServerInfo - Common.dat)
+- Add MAX_HWID Connection (GameServerInfo - Common.dat)
+
+- Add GensSystem Exit Time (GameServerInfo - Common.dat)
+- Add GensSystem Self Gens Damage (GameServerInfo - Common.dat)
+- Add PKSystem, OffTrade, Reset, MasterExp Enable in MapManager.txt
+- Add Reset System NPC
+
+- Add MonsterDamageRate (GameServerInfo - Common.dat)
+- Add MonsterDefenseRate (GameServerInfo - Common.dat)
+- Add ElfBufferTime (GameServerInfo - Common.dat)
+- Add PartyDivideZen (GameServerInfo - Common.dat)
+- Add CreateCoinWhenZenIsMax (GameServerInfo - Common.dat)
+- Add PotionDelay (GameServerInfo - Common.dat)
+- Add ElfBufferEnableQuest (GameServerInfo - Common.dat)
+- Add Custom Warehouse Interface (GameServerInfo - Custom.dat)
+- Fix Show Ping
+- Add NewHealthBar Player/Monster/Guild/Party
+- Add MonsterHealthBar Color (MainInfo.ini)
+- New 3D Camera with better view
+- Default Camera range view when enter character (MainInfo.ini)
+- Add Settings Interface
+- Add New Menu Interface
+
+- DisableBCDSCCMaster (MainInfo.ini)
+- Disable380MixChaosMachine (MainInfo.ini)
+- DisableWCoinCCashShop (MainInfo.ini)
+- DisableWCoinPCashShop (MainInfo.ini)
+- DisableWCoinGCashShop (MainInfo.ini)
+- Unicode (MainInfo.ini)
+- MiniMapHover (MainInfo.ini)
+- ChangeMGLevel (MainInfo.ini)
+- CustomSelectServerX700 (MainInfo.ini)
+
+- Fix UI Buttons Menu, Camera, Camera Reset
+- Fix Party Buffs
+- Fix Santa Village
+- Fix Vulcanus Map visible range
+- Add Monsters show to Minimap
+
+- Fix Equip CustomPet (It was not displayed when equipping it on another screen.)
+- Fix Monster/Player Healtbar Switch ON/OFF (GameServerInfo - Common.dat)
+- Add Swamp Event
+- Add Sky Event
+- Add Happy Hours Event
+- Fix Ram GameServer, GameServerCS
+- Add CustomEarthQuake
+
+- Fix Zyro Quest
+- Fix PartySearch Password
+- Fix button close Buy Vip
+- Add PacketCheckTime
+
+- Fix Command Set PK
+- Fix Command Set Level
+- Fix Flying Dragons
+- Fix UI buggs
